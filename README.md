@@ -1,3 +1,3 @@
 # hello-world
-First git repository
+First git repository\n
 Derpity derpy derp
